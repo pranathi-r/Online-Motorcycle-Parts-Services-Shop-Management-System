@@ -1,2 +1,8 @@
 # Online-Motorcycle-Parts-Services-Shop-Management-System
 Welcome to our comprehensive Online Motorcycle Parts & Services Shop Management System. This web-based solution, powered by PHP and SQL, offers a dual interface for administrators and users. On the admin side, staff can efficiently manage inventory, track orders, and oversee customer accounts, ensuring seamless operations. Meanwhile, the user side provides a user-friendly platform for motorcycle enthusiasts to browse, purchase parts, and schedule services. With secure SQL databases, we store critical data, such as product listings, user profiles, and order history. Our system simplifies the management of motorcycle-related businesses while enhancing the shopping experience for enthusiasts. 
+
+![Screenshot_20230906_114514](https://github.com/pranathi-r/Online-Motorcycle-Parts-Services-Shop-Management-System/assets/114000635/fcfa24ed-1dfa-482f-bd38-a44570ab4325)
+![Screenshot_20230906_114543](https://github.com/pranathi-r/Online-Motorcycle-Parts-Services-Shop-Management-System/assets/114000635/65f0ce66-a3db-4fc2-954f-edc68f72cf68)
+![Screenshot_20230906_114652](https://github.com/pranathi-r/Online-Motorcycle-Parts-Services-Shop-Management-System/assets/114000635/121ad74c-4f20-448e-a788-3ec70b5f2800)
+![Screenshot_20230906_114636](https://github.com/pranathi-r/Online-Motorcycle-Parts-Services-Shop-Management-System/assets/114000635/24a07a74-429a-4042-85d0-6714677631f0)
+![Screenshot_20230906_114704](https://github.com/pranathi-r/Online-Motorcycle-Parts-Services-Shop-Management-System/assets/114000635/abd70d73-69fc-4614-928e-edf7bc21bf21)
